@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/crossix/crossix.iml" filepath="$PROJECT_DIR$/crossix/crossix.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-java.iml" filepath="$PROJECT_DIR$/my-java.iml" />
     </modules>
   </component>
